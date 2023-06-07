@@ -1,7 +1,5 @@
 const Stage1Result = require("../models/stage1Result");
 const Stage1Questions = require("../models/stage1Questions");
-const path = require('path');
-const fs = require('fs');
 
 exports.postStage1 = async (req, res) => {
   const { questionNumber, answerChar } = req.body;
@@ -102,17 +100,11 @@ exports.getStage1 = async (req, res) => {
       return res.redirect("/stage1Result");
     }
 
-    let questionsValue;
-
-    const filePath = path.resolve(__dirname, 'models', 'questionsForStages', 'stage1Questions.json');
-    
-    try {
-      const fileContents = fs.readFileSync(filePath, 'utf8');
-      questionsValue = JSON.parse(fileContents);
-    } catch (error) {
-      console.error('Error reading or parsing the JSON file:', error);
-      // Handle the error accordingly, e.g., show an error message or redirect to an error page
-      return res.redirect('/error');
+    const questionsValue = await Stage1Questions.findOne({
+      "questions.questionNumber": questionNumber,
+    });
+    if (!questionsValue) {
+      return res.redirect("/stage1");
     }
 
     return res.render("stage1", {
