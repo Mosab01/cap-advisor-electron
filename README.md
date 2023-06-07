@@ -33,12 +33,13 @@ Electron
 # Contributions  
 Contributions to Cap Advisor are welcome! If you would like to contribute to this project, please open an issue or create a pull request on the repository.
 
-# on Descktop  
+# First Look 
+![image](https://github.com/Mosab01/cap-advisor-electron/assets/90719835/91151a1e-9e77-42e8-86a6-10e83bebe460)
 
-# Details Page  
+![image](https://github.com/Mosab01/cap-advisor-electron/assets/90719835/ffc3a6fa-1894-47da-b793-036b09c299ca)
 
-# on Phone  
+![download](https://github.com/Mosab01/cap-advisor-electron/assets/90719835/aad49b59-95dc-4512-a728-64077f5f7067)
 
-# Details Page  
+![image](https://github.com/Mosab01/cap-advisor-electron/assets/90719835/be1c1ae9-0c47-4bbc-8290-2f85ce750969)
 
-
+![image](https://github.com/Mosab01/cap-advisor-electron/assets/90719835/1836397c-102e-44d4-aeb7-5bdad82ae655)
