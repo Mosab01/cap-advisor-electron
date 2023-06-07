@@ -1,0 +1,497 @@
+[{
+  "_id": {
+    "$oid": "645cb4341fa597ba5ead9460"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Would you prefer working in the field of data analysis? For example, analyzing financial data for companies to provide strategic insights, or analyzing user data to improve the user experience on a particular platform, or analyzing patient data to improve healthcare quality?",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Yes, I prefer working in the field of data analysis and dealing with big data.",
+          "weight": [
+            {
+              "aiWeight": 5,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9463"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9462"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "No, I prefer working in the field of software development and mobile/web/desktop applications.",
+          "weight": [
+            {
+              "aiWeight": 0,
+              "swWeight": 5,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9465"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9464"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "645cb4341fa597ba5ead9461"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d07e7f35453e53909fe59"
+  },
+  "questions": [
+    {
+      "questionNumber": 2,
+      "question": "Do you prefer to work in a field that has the potential to transform industries and have a significant impact on society, or do you prefer to focus on creating software solutions that solve specific problems for businesses and individuals?",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "I prefer to work in a field that has the potential to transform industries and have a significant impact on society.",
+          "weight": [
+            {
+              "aiWeight": 5,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9463"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9462"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": " I prefer to focus on creating software solutions that solve specific problems for businesses and individuals.",
+          "weight": [
+            {
+              "aiWeight": 0,
+              "swWeight": 5,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9465"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9464"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "645cb4341fa597ba5ead9461"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d07e9f35453e53909fe5a"
+  },
+  "questions": [
+    {
+      "questionNumber": 3,
+      "question": "What is the mode and median of the following data set: 2, 5, 3, 5, 6, 5, 4, 5? ",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Mode = 5, Median = 4",
+          "weight": [
+            {
+              "aiWeight": 0,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9463"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9462"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "Mode = 5, Median = 5",
+          "weight": [
+            {
+              "aiWeight": 5,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9465"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9464"
+          }
+        },
+        {
+          "answerChar": "3",
+          "answer": "Mode = 6, Median = 5",
+          "weight": [
+            {
+              "aiWeight": 0,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9467"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9466"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "645cb4341fa597ba5ead9461"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d07ecf35453e53909fe5b"
+  },
+  "questions": [
+    {
+      "questionNumber": 4,
+      "question": "What is the probability of rolling a sum of 7 on two six-sided dice?\n",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "1/6 ",
+          "weight": [
+            {
+              "aiWeight": 5,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9463"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9462"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "1/9",
+          "weight": [
+            {
+              "aiWeight": 0,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9465"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9464"
+          }
+        },
+        {
+          "answerChar": "3",
+          "answer": "1/12",
+          "weight": [
+            {
+              "aiWeight": 0,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9467"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9466"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "645cb4341fa597ba5ead9461"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d07eff35453e53909fe5c"
+  },
+  "questions": [
+    {
+      "questionNumber": 5,
+      "question": "What is the equation of the line passing through the points (3, 5) and (7, 9)?",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "y = x + 2",
+          "weight": [
+            {
+              "aiWeight": 5,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9463"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9462"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "y = 2x - 1",
+          "weight": [
+            {
+              "aiWeight": 0,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9465"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9464"
+          }
+        },
+        {
+          "answerChar": "3",
+          "answer": "y = x - 2",
+          "weight": [
+            {
+              "aiWeight": 0,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9467"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9466"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "645cb4341fa597ba5ead9461"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d07f9f35453e53909fe5d"
+  },
+  "questions": [
+    {
+      "questionNumber": 6,
+      "question": "What is the derivative of f(x) = 3x^4 - 4x^3 + 6x - 2?\"",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "12x^3 - 12x^2 + 6",
+          "weight": [
+            {
+              "aiWeight": 0,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9463"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9462"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "9x^3 - 8x^2 + 6x",
+          "weight": [
+            {
+              "aiWeight": 0,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9465"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9464"
+          }
+        },
+        {
+          "answerChar": "3",
+          "answer": "9x^3 - 8x^2 + 6",
+          "weight": [
+            {
+              "aiWeight": 5,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9467"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9466"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "645cb4341fa597ba5ead9461"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d07fbf35453e53909fe5e"
+  },
+  "questions": [
+    {
+      "questionNumber": 7,
+      "question": "Do you enjoy solving problems and critical thinking? ",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Yes, I love it.",
+          "weight": [
+            {
+              "aiWeight": 5,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9463"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9462"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "Not really, I prefer other activities.",
+          "weight": [
+            {
+              "aiWeight": 0,
+              "swWeight": 5,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9465"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9464"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "645cb4341fa597ba5ead9461"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d07fdf35453e53909fe5f"
+  },
+  "questions": [
+    {
+      "questionNumber": 8,
+      "question": "Do you enjoy designing and developing graphical interfaces and web applications?",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Yes, I enjoy it.",
+          "weight": [
+            {
+              "aiWeight": 0,
+              "swWeight": 5,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9463"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9462"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "No, I don't enjoy it.",
+          "weight": [
+            {
+              "aiWeight": 5,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9465"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9464"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "645cb4341fa597ba5ead9461"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d0800f35453e53909fe60"
+  },
+  "questions": [
+    {
+      "questionNumber": 9,
+      "question": "Do you enjoy solving analytical problems and mathematical challenges, and learning and applying new algorithms?",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Yes, I love solving analytical problems and learning new algorithms.",
+          "weight": [
+            {
+              "aiWeight": 5,
+              "swWeight": 0,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9463"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9462"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "No, I am not interested in solving analytical problems and mathematical challenges.",
+          "weight": [
+            {
+              "aiWeight": 0,
+              "swWeight": 5,
+              "_id": {
+                "$oid": "645cb4341fa597ba5ead9465"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "645cb4341fa597ba5ead9464"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "645cb4341fa597ba5ead9461"
+      }
+    }
+  ],
+  "__v": 0
+}]

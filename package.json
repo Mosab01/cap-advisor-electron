@@ -1,0 +1,42 @@
+{
+  "name": "cap-advisor",
+  "productName": "Cap-Advisor",
+  "version": "1.0.0",
+  "description": "Cap-Advisor: an app to show you the best path for you",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "dev": "nodemon app.js",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "publish": "electron-forge publish",
+    "lint": "echo \"No linting configured\""
+  },
+  "keywords": [],
+  "author": {
+    "name": "mosab01",
+    "email": "mosabkhraim3@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bootstrap": "^5.3.0",
+    "dotenv": "^16.1.4",
+    "ejs": "^3.1.9",
+    "electron-squirrel-startup": "^1.0.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "express-validator": "^7.0.1",
+    "mongoose": "^7.2.2",
+    "nodemon": "^2.0.22",
+    "passport": "^0.6.0"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.1.1",
+    "@electron-forge/maker-deb": "^6.1.1",
+    "@electron-forge/maker-rpm": "^6.1.1",
+    "@electron-forge/maker-squirrel": "^6.1.1",
+    "@electron-forge/maker-zip": "^6.1.1",
+    "electron": "25.0.1"
+  }
+}

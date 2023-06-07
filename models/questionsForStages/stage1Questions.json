@@ -1,0 +1,586 @@
+[{
+  "_id": {
+    "$oid": "644fb1c5c4d4eb4e7db6f7bc"
+  },
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "Do you prefer to work in a job that requires sitting in front of a computer for 8 hours per day?",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Yes, I'm comfortable working for 8 hours straight in front of a computer",
+          "weight": [
+            {
+              "engineeringWeight": 5,
+              "itWeight": 5,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb1c5c4d4eb4e7db6f7bf"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb1c5c4d4eb4e7db6f7be"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "No, I prefer jobs that require physical activity.",
+          "weight": [
+            {
+              "engineeringWeight": 0,
+              "itWeight": 0,
+              "notItWeight": 5,
+              "_id": {
+                "$oid": "644fb1c5c4d4eb4e7db6f7c1"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb1c5c4d4eb4e7db6f7c0"
+          }
+        },
+        {
+          "answerChar": "3",
+          "answer": "I'm comfortable with sitting for 8 hours, but would prefer a mix of computer work and physical activity.",
+          "weight": [
+            {
+              "engineeringWeight": 0,
+              "itWeight": 0,
+              "notItWeight": 3,
+              "_id": {
+                "$oid": "644fb1c5c4d4eb4e7db6f7c3"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb1c5c4d4eb4e7db6f7c2"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644fb1c5c4d4eb4e7db6f7bd"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644fb227069bfd3316ae50c7"
+  },
+  "questions": [
+    {
+      "questionNumber": 2,
+      "question": "Have you ever experienced a technical problem while using a computer or smartphone? For example, being unable to connect to the internet or having an application not work properly? These are technical problems that people can encounter in their daily lives. Do you feel a desire to solve these problems, or do you find it challenging? ",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "I enjoy solving technical problems.",
+          "weight": [
+            {
+              "engineeringWeight": 5,
+              "itWeight": 5,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50ca"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50c9"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "I am willing to try solving technical problems, even if they are difficult.",
+          "weight": [
+            {
+              "engineeringWeight": 3,
+              "itWeight": 3,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50cc"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50cb"
+          }
+        },
+        {
+          "answerChar": "3",
+          "answer": "I'm comfortable with sitting for 8 hours, but would prefer a mix of computer work and physical activity.",
+          "weight": [
+            {
+              "engineeringWeight": 0,
+              "itWeight": 0,
+              "notItWeight": 5,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50ce"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50cd"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644fb227069bfd3316ae50c8"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644fb27f053da257e84abf1d"
+  },
+  "questions": [
+    {
+      "questionNumber": 3,
+      "question": "Do you have a good understanding of number systems, such as binary? Do you enjoy studying concepts that use this system, as there are many technological concepts that rely on this principle? ",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Yes, I have a good understanding of binary and enjoy studying these concepts.",
+          "weight": [
+            {
+              "engineeringWeight": 5,
+              "itWeight": 5,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50ca"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50c9"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": " I have some knowledge of binary and would like to learn more about it.",
+          "weight": [
+            {
+              "engineeringWeight": 3,
+              "itWeight": 3,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50cc"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50cb"
+          }
+        },
+        {
+          "answerChar": "3",
+          "answer": "No, I do not have sufficient knowledge of binary and do not enjoy",
+          "weight": [
+            {
+              "engineeringWeight": 0,
+              "itWeight": 0,
+              "notItWeight": 5,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50ce"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50cd"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644fb227069bfd3316ae50c8"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644fb2ff053da257e84abf20"
+  },
+  "questions": [
+    {
+      "questionNumber": 4,
+      "question": "Do you have previous knowledge and interests in computers and programming? Do you use the computer frequently in your daily life? ",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Yes, I have previous knowledge and interest in computers and programming.",
+          "weight": [
+            {
+              "engineeringWeight": 3,
+              "itWeight": 3,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50ca"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50c9"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": " No, I have no previous knowledge or interest in computers and programming, and I don't use computers frequently in my daily life.",
+          "weight": [
+            {
+              "engineeringWeight": 0,
+              "itWeight": 0,
+              "notItWeight": 5,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50cc"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50cb"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644fb227069bfd3316ae50c8"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644fb359053da257e84abf21"
+  },
+  "questions": [
+    {
+      "questionNumber": 5,
+      "question": "Are you interested in computer hardware components and connecting them? Would you like to learn about the computer's internal components and how they work?",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Yes, I'm very interested and would love to learn more about computer hardware",
+          "weight": [
+            {
+              "engineeringWeight": 5,
+              "itWeight": 0,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50ca"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50c9"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "I have some interest and would like to learn more.",
+          "weight": [
+            {
+              "engineeringWeight": 3,
+              "itWeight": 0,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50cc"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50cb"
+          }
+        },
+        {
+          "answerChar": "3",
+          "answer": "No, I'm not particularly interested in computer hardware.",
+          "weight": [
+            {
+              "engineeringWeight": 0,
+              "itWeight": 5,
+              "notItWeight": 2,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50ce"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50cd"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644fb227069bfd3316ae50c8"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644fb3b4053da257e84abf22"
+  },
+  "questions": [
+    {
+      "questionNumber": 6,
+      "question": "do you feel interested in electronic devices and analyze their circuits and components?",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Yes, I feel interested and have some knowledge in this regard.",
+          "weight": [
+            {
+              "engineeringWeight": 5,
+              "itWeight": 0,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50ca"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50c9"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "No, I don't feel interested in this.",
+          "weight": [
+            {
+              "engineeringWeight": 0,
+              "itWeight": 5,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50cc"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50cb"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644fb227069bfd3316ae50c8"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644fb3fd053da257e84abf23"
+  },
+  "questions": [
+    {
+      "questionNumber": 7,
+      "question": "Do you have an understanding of processors, graphics cards, and other important components in building gaming computers?",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Yes, I have a good understanding of these components and enjoy building gaming computers.",
+          "weight": [
+            {
+              "engineeringWeight": 5,
+              "itWeight": 0,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50ca"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50c9"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": " I have some knowledge about these components and would like to learn more.",
+          "weight": [
+            {
+              "engineeringWeight": 3,
+              "itWeight": 0,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50cc"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50cb"
+          }
+        },
+        {
+          "answerChar": "3",
+          "answer": "No, I do not have enough knowledge about these components and am not interested in building gaming computers.",
+          "weight": [
+            {
+              "engineeringWeight": 0,
+              "itWeight": 5,
+              "notItWeight": 2,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50ce"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50cd"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644fb227069bfd3316ae50c8"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644fb449053da257e84abf24"
+  },
+  "questions": [
+    {
+      "questionNumber": 8,
+      "question": "Are you interested in pursuing a career in a field that constantly evolves and where new technologies and applications emerge constantly?",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Yes, I am interested in a field that constantly evolves and I enjoy learning new technologies.",
+          "weight": [
+            {
+              "engineeringWeight": 5,
+              "itWeight": 5,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50ca"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50c9"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "I am not interested in a field that constantly evolves and prefer to rely on skills I have already learned.",
+          "weight": [
+            {
+              "engineeringWeight": 0,
+              "itWeight": 0,
+              "notItWeight": 5,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50cc"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50cb"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644fb227069bfd3316ae50c8"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644fb47c053da257e84abf25"
+  },
+  "questions": [
+    {
+      "questionNumber": 9,
+      "question": "Have you ever worked in a team and collaborated with others? Do you believe you have the ability and desire to work within a team and exchange knowledge and experience with others in your work?",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Yes, I have the ability to work within a team and achieve common goals.",
+          "weight": [
+            {
+              "engineeringWeight": 5,
+              "itWeight": 5,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50ca"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50c9"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": " I prefer to work individually more than working in a team.",
+          "weight": [
+            {
+              "engineeringWeight": 0,
+              "itWeight": 0,
+              "notItWeight": 5,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50cc"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50cb"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644fb227069bfd3316ae50c8"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644fb4ae053da257e84abf26"
+  },
+  "questions": [
+    {
+      "questionNumber": 10,
+      "question": "Do you feel you might be interested in analysis and design related tasks such as creating websites for example or not?",
+      "answers": [
+        {
+          "answerChar": "1",
+          "answer": "Yes, I am interested in things related to analysis and design.",
+          "weight": [
+            {
+              "engineeringWeight": 5,
+              "itWeight": 5,
+              "notItWeight": 0,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50ca"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50c9"
+          }
+        },
+        {
+          "answerChar": "2",
+          "answer": "I'm not interested in the analysis and design stuff.",
+          "weight": [
+            {
+              "engineeringWeight": 0,
+              "itWeight": 0,
+              "notItWeight": 3,
+              "_id": {
+                "$oid": "644fb227069bfd3316ae50cc"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "644fb227069bfd3316ae50cb"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "644fb227069bfd3316ae50c8"
+      }
+    }
+  ],
+  "__v": 0
+}]
