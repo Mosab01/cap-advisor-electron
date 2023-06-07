@@ -3,6 +3,7 @@ Cap Advisor is a web and desktop application that helps users determine their co
 
 # Installation  
 Clone the repository to your computer.
+Change file .env.example to .env 
 Install the necessary packages by running npm install.
 Start the server using npm start.
 
